@@ -12,14 +12,14 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/modid/icon.png",
+	"icon": "assets/frj_mod/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+			"com.example.ModIfrj"
 		],
 		"client": [
-			"com.example.ExampleModClient"
+			"com.example.ModIfrjClient"
 		]
 	},
 	"mixins": [
