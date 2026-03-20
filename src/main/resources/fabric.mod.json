@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
-	"id": "modid",
+	"id": "ifrj_mod",
 	"version": "${version}",
-	"name": "Example mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "IFRJ Mod",
+	"description": "Um mod com elementos do IFRJ",
 	"authors": [
-		"Me!"
+		"carlosbobao, Gabriel Aprigliano"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
